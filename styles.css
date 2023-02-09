@@ -1,0 +1,93 @@
+.headcontainer {
+  display: flex;
+}
+.headleft {
+  width: 820px;
+  height: 592px;
+  left: 0px;
+  top: -1px;
+  background: #ffcd9e;
+}
+.headright {
+  width: 620px;
+  height: 592px;
+  left: 0px;
+  top: -1px;
+  background: #ffcd9e;
+}
+.footcontainer {
+  display: flex;
+}
+.footleft {
+  width: 720px;
+  height: 298px;
+  left: 0px;
+  top: 592px;
+
+  background: #282828;
+}
+.footright {
+  width: 720px;
+  height: 298px;
+  left: 0px;
+  top: 592px;
+
+  background: #282828;
+}
+
+.title {
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+.content1 {
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+.subcontent1 {
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+.inputbox {
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+.nospam {
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+.footertext {
+  color: rgb(231, 176, 176);
+  position: relative;
+  left: 50px;
+}
+.info {
+  color: rgb(231, 176, 176);
+  position: relative;
+  text-align: right;
+  right: 50px;
+}
+.art {
+  position: relative;
+  left: 160px;
+  top: 50px;
+  height: auto;
+  width: 100%;
+}
+.fa:hover {
+  opacity: 0.9;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #ea0dcd;
+  color: white;
+}
