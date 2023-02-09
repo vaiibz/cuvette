@@ -78,6 +78,13 @@
   height: auto;
   width: 100%;
 }
+.vectorart {
+  position: relative;
+  left: 160px;
+  top: 50px;
+  height: auto;
+  width: 100%;
+}
 .fa:hover {
   opacity: 0.9;
 }
